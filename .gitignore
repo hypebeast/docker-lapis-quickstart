@@ -1,0 +1,4 @@
+# Lua specific files
+app/*_temp/
+app/*.compiled
+app/logs

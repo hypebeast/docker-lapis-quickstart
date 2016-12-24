@@ -1,0 +1,4 @@
+<!-- views/index.etlua -->
+<h1>docker-lapis-quickstart</h1>
+<p>Welcome to docker-lapis-quickstart</p>
+<p><a href="/about">About Page</a></p>
