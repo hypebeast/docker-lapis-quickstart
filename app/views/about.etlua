@@ -1,2 +1,3 @@
 <!-- views/about.etlua -->
 <h1>About Page</h1>
+<p>Back to <a href="/">Home</a></p>
